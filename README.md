@@ -1,3 +1,5 @@
 **LLM Projects**
 
-Fine tuning, RAG, DPO, Agents
+Projects with Large Langage models.
+
+From Fine tuning, RAG, DPO, Agents
